@@ -1,26 +1,14 @@
 artist:
-  name: Cosmic Cowboy Media
-  tagline: Greg Shaddix - podcaster, songwriter & maker of balloon animals out of the truth
-  seo_title: Podcaster, Singer, Songwriter
+  name: Elite Realty LLC
+  tagline: Specializing in residential property. Buyers and Sellers.
+  seo_title: Elite Realty LLC
   # seo_description:
-  # contact_twitter_username: gshaddixmusic
+  # contact_twitter_username: bonniehood
   # contact_phone: 
-  # contact_email: cosmiccowboymedia@gmail.com
+  # contact_email: bonniehood.elite@gmail.com
 
 social:
   - name: Facebook
-    url: https://www.facebook.com/TheMockingbirdPodcast/
-  - name: Instagram
-    url: https://www.instagram.com/cosmiccowboymedia/
-  - name: Twitter
-    url: https://twitter.com/gshaddixmusic
-  - name: Youtube
-    url: https://www.youtube.com/themockingbird
-  - name: Spotify
-    url: https://open.spotify.com/show/6NbiepShAMRYu1x5jCk8Jc
-  - name: Apple
-    url: https://podcasts.apple.com/us/podcast/the-mockingbird/id1454574904
-  - name: Podcast
-    url: https://www.stitcher.com/podcast/the-mockingbird
+    url: https://www.facebook.com/tracyleehomes/
 
 site_language: en

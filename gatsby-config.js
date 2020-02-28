@@ -7,9 +7,9 @@
 module.exports = {
   // Add common site data (not required by the theme, but recommended)
   siteMetadata: {
-    title: "Cosmic Cowboy Media",
-    description: "Cosmic Cowboy",
-    siteUrl: "https://cosmiccowboymedia.com"
+    title: "Elite Realty LLC",
+    description: "Elite Realty LLC",
+    siteUrl: "https://eliterealtyllc.com"
   },
   plugins: [
     // Add gatsby-theme-musician to your site
@@ -21,7 +21,7 @@ module.exports = {
         // These are default values that you can override
         // basePath: `/`,
         // content: `content`,
-        pwaName: 'Cosmic Cowboy'
+        pwaName: 'Elite Realty'
       }
    },
     // Add gatsby-plugin-mailchimp
@@ -39,7 +39,7 @@ module.exports = {
         logo: "./src/favicon.png",
 
         // WebApp Manifest Configuration
-        appName: 'Cosmic Cowboy' // Inferred with your package.json
+        appName: 'Elite Realty' // Inferred with your package.json
       }
     },
   ]
