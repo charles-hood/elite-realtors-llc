@@ -1,7 +1,7 @@
 navigation:
   - text: Search Homes
     url: "#mls"
-  - text: Agent Bio's
+  - text: Our Agents
     url: "#shows"
   - text: Contact
     url: "#contact"
