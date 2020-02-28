@@ -7,9 +7,9 @@
 module.exports = {
   // Add common site data (not required by the theme, but recommended)
   siteMetadata: {
-    title: "Elite Realty LLC",
-    description: "Elite Realty LLC",
-    siteUrl: "https://eliterealtyllc.com"
+    title: "Elite Realtors LLC",
+    description: "Elite Realtors LLC",
+    siteUrl: "https://eliteRealtorsllc.com"
   },
   plugins: [
     // Add gatsby-theme-musician to your site
@@ -21,7 +21,7 @@ module.exports = {
         // These are default values that you can override
         // basePath: `/`,
         // content: `content`,
-        pwaName: 'Elite Realty'
+        pwaName: 'Elite Realtors'
       }
    },
     // Add gatsby-plugin-mailchimp
@@ -39,7 +39,7 @@ module.exports = {
         logo: "./src/favicon.png",
 
         // WebApp Manifest Configuration
-        appName: 'Elite Realty' // Inferred with your package.json
+        appName: 'Elite Realtors' // Inferred with your package.json
       }
     },
   ]
