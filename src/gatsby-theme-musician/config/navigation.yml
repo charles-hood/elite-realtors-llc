@@ -2,6 +2,6 @@ navigation:
   - text: Listings
     url: "#mls"
   - text: Our Agents
-    url: https://eliterealtorsllc.com/agents/
+    url: agents/
   - text: Contact
     url: "#contact"
