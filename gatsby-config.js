@@ -7,8 +7,8 @@
 module.exports = {
   // Add common site data (not required by the theme, but recommended)
   siteMetadata: {
-    title: "Elite Realtors LLC",
-    description: "Elite Realtors LLC",
+    title: "Elite Realtors",
+    description: "Elite Realtors",
     siteUrl: "https://eliteRealtorsllc.com"
   },
   plugins: [
