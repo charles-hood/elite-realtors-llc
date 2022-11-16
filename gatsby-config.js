@@ -36,7 +36,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-favicon',
       options: {
-        logo: "./src/favicon.png",
+        logo: "./src/favicon.jpg",
 
         // WebApp Manifest Configuration
         appName: 'Elite Realtors' // Inferred with your package.json
